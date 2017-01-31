@@ -41,7 +41,7 @@ As for this kind of license, I'd say they fit most companies pretty well becasue
 **License for the Project I want to work on**
 ---
 
-I would like to work on the project called Borilliant Sis. It is a project base on Node.js with a module called phantomjs and cherrio. Phantomjs could help user to stimulate the process of vising a wabpage and login. Cherrio is a module for phrasing the html file into the data I want. The main user of the project would be me only so far, but it could be also used by other rpi students in the future.
+I would like to work on the project called Borilliant Sis. It is a project base on Node.js with a module called phantomjs and cherrio. Phantomjs could help user to stimulate the process of vising a wabpage and login. Cherrio is a module for phrasing the html file into the data I want. The main user of the project would be me only so far, but it could be also used by other rpi students in the future .
 
 **RCOS Table**    
 
