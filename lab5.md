@@ -21,6 +21,5 @@ RPI Tours 			    	| 9   						|12600 						| https://github.com/JohnBehnke/RPI_T
 Second String 			    | 5   						|646882			    		| https://github.com/cwilliamson226/SecondString/commit/0b5cfd799bac80cecf27158abb0cf2a1995851af | https://github.com/cwilliamson226/SecondString/commit/cfc252b5b4b7381622dd6e79c5370a3daff26ce5	| master		
 
 ### Video
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YLdR_Tb51s" frameborder="0" allowfullscreen></iframe>
-
+https://www.youtube.com/watch?v=4YLdR_Tb51s
 ## Part 2
