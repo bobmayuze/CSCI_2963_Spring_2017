@@ -5,7 +5,7 @@
 
 ## Part 0. 
 
-2&3. Latex ![latex](img/lab5/latex.png)
+2&3. Latex Picture ![latex](img/lab5/latex.png)
 
 ## Part 1
 Table 5
