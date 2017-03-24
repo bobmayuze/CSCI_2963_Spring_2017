@@ -1,0 +1,13 @@
+diff --git a/zh_TW.UTF-8/htdocs/docs.xml b/zh_TW.UTF-8/htdocs/docs.xml
+index b00da16..24f66ad 100644
+--- a/zh_TW.UTF-8/htdocs/docs.xml
++++ b/zh_TW.UTF-8/htdocs/docs.xml
+@@ -18,7 +18,7 @@
+ 
+     <img src="&enbase;/gifs/doc.jpg" alt="正在閱讀文件的 BSD Daemon" align="right" border="0" width="274" height="163"/>
+ 
+-    <p>FreeBSD 有廣泛的各類文件，在這個網站、其他網站
++    <p>FreeBSD 有廣泛的各類文檔，在這個網站、其他網站
+       都可以找到，數不勝數。</p>
+ 
+   </body>
